@@ -27,4 +27,6 @@
 
 ## Interfaces
 
+### Program to an interface
 * [What does it mean to “program to an interface”?](http://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface)
+* [“Program to an interface”. What does it mean?](http://stackoverflow.com/questions/1992384/program-to-an-interface-what-does-it-mean)
